@@ -20,7 +20,7 @@ Hi! My name is Samarth Hande.
 
 ### Development Environment
 
-> Coding starts with tools, explore these tools and procedures with a click.
+> Coding starts with tools, explore these tools and procedures with a click!
 
 <a href="https://github.com/Open-Coding-Society/student">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
