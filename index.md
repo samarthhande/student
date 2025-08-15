@@ -10,10 +10,10 @@ Hi! My name is Samarth Hande.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Samarth  | github.com/samarthhande/student     | downstream (fork)     | student   |
-| Scrummer     | Anish    | github.com/neur0n-7/student         | downstream (fork)     | student   |
-| Scrummer     | James    | github.com/1j-bla1/student          | downstream (fork)     | student   |
+| Scrum Master | John     | <https://github.com/jm1021/student>           | upstream (OCS fork)   | student   |
+| Scrummer     | Samarth  | <https://github.com/samarthhande/student>     | downstream (fork)     | student   |
+| Scrummer     | Anish    | <https://github.com/neur0n-7/student>         | downstream (fork)     | student   |
+| Scrummer     | James    | <https://github.com/1j-bla1/student>          | downstream (fork)     | student   |
 
 
 ## Links to Learning
