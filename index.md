@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Samarth Hande.
+Hi! My name is Samarth Hande!
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
