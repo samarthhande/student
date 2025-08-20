@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Samarth Hande
+title: About
 permalink: /about/
 comments: true
 ---
