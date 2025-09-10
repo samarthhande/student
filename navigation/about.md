@@ -101,7 +101,7 @@ Here are places associated with me.
 
 - 🏫 Stone Ranch Elementary School (San Diego, CA)
 - 🏫 Oak Valley Middle School (San Diego, CA)
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
+- 🎓 Del Norte High School (San Diego, CA)
 - ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
 - 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
 - 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
