@@ -97,7 +97,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here are places associated with me.
 
 - 🏫 Stone Ranch Elementary School (San Diego, CA)
 - 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
