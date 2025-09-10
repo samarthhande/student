@@ -102,12 +102,6 @@ Here are places associated with me.
 - 🏫 Stone Ranch Elementary School (San Diego, CA)
 - 🏫 Oak Valley Middle School (San Diego, CA)
 - 🎓 Del Norte High School (San Diego, CA)
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
 
 ### Culture, Family, and Fun
 
