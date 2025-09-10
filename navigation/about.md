@@ -107,7 +107,8 @@ Here are places associated with me.
 
 - I have 4 members of my family
   - I have 1 younger brother (11yrs)
-  - 
+  - I have a mom
+  - I have a dad
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
