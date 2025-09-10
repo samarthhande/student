@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+Here's some places where I've lived!
 
 <comment>
 Flags are made using Wikipedia images
