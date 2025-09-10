@@ -100,7 +100,7 @@ Flags are made using Wikipedia images
 Here are places associated with me.
 
 - 🏫 Stone Ranch Elementary School (San Diego, CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
+- 🏫 Oak Valley Middle School (San Diego, CA)
 - 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
 - ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
 - 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
