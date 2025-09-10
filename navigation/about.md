@@ -110,6 +110,8 @@ Here are places associated with me.
   - I have a mom
   - I have a dad
 
+<!-- Add further detail in the above section later -->
+
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
