@@ -1,8 +1,12 @@
 ---
-author: samarthhande
-title: Enviornment Setup for CSSE
-description: A guide on how to set up your Kali/Ubuntu envionrment
-permalink: /setuphelp
+toc: True
+layout: post
+data: tools
+title: Setup Blog
+description: Learn how to create and manage course-required accounts, including a Portfolio Website, GitHub, Slack, and LinkedIn, while protecting your Personal Iden>
+categories: ['DevOps']
+permalink: /tools/setuphelp
+breadcrumb: True
 ---
  
 # 🖥️ Enviornment Setup for CSSE
