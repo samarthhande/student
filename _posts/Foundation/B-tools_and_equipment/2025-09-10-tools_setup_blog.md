@@ -3,8 +3,7 @@ toc: True
 layout: post
 data: tools
 title: Setup Blog
-description: Learn how to create and manage course-required accounts, including a Portfolio Website, GitHub, Slack, and LinkedIn, while protecting your Personal Iden>
-categories: ['DevOps']
+description: This is a blog to help you setup basic tools and get started with your first few days and weeks of coding!
 permalink: /tools/setuphelp
 breadcrumb: True
 ---
